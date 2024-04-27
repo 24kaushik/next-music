@@ -31,3 +31,39 @@ body {
     text-wrap: balance;
   }
 }
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 50px;
+}
+
+.custom-scroll::-webkit-scrollbar {
+  height: 1em;
+  width: .8em;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  
+  background-color: #acacac;
+}
+
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div {
+  /* background: grey; */
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}

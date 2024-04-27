@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": false,
+            "image": "/assets/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your musical journey with our beginner-friendly piano course.",
+            "price": 89.99,
+            "instructor": "Alice Smith",
+            "isFeatured": false,
+            "image": "/assets/piano.png"
+        },
+        {
+            "id": 3,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Unlock your creativity and learn the art of songwriting from experienced musicians.",
+            "price": 109.99,
+            "instructor": "Sarah Johnson",
+            "isFeatured": true,
+            "image": "/assets/songwriting.webp"
+        },
+        {
+            "id": 4,
+            "title": "Music Theory Essentials",
+            "slug": "music-theory-essentials",
+            "description": "Gain a solid foundation in music theory to enhance your musical abilities.",
+            "price": 79.99,
+            "instructor": "David Thompson",
+            "isFeatured": false
+        },
+        {
+            "id": 5,
+            "title": "Singing Techniques",
+            "slug": "singing-techniques",
+            "description": "Improve your vocal skills and learn various singing techniques from professional vocal coaches.",
+            "price": 119.99,
+            "instructor": "Emma White",
+            "isFeatured": true,
+            "image": "/assets/singing.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Bass Guitar Mastery",
+            "slug": "bass-guitar-mastery",
+            "description": "Dive into the world of bass guitar playing with our comprehensive course designed for beginners and intermediate players alike.",
+            "price": 109.99,
+            "instructor": "Michael Brown",
+            "isFeatured": false,
+            "image": "/assets/bass-guitar.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Drumming Foundations",
+            "slug": "drumming-foundations",
+            "description": "Learn the basics of drumming and rhythm with our beginner-friendly course. Explore different drumming styles and techniques to kickstart your percussive journey.",
+            "price": 99.99,
+            "instructor": "Chris Evans",
+            "isFeatured": true,
+            "image": "/assets/drumming.png"
+        }
+       
+    ]
+}
