@@ -46,7 +46,7 @@ const FeaturedCourses = () => {
           breakpointCols={breakpointColumnsObj}
           className="my-masonry-grid"
           columnClassName="my-masonry-grid_column">
-          {courseData.courses.map((course: Course) => { return <CourseCard course={course} /> })}
+          {courseData.courses.map((course: Course) => { return <CourseCard key={course.id} course={course} /> })}
         </Masonry>
       </div>
       <div className='mt-20 text-center'>
