@@ -69,6 +69,37 @@
             "isFeatured": true,
             "image": "/assets/drumming.png"
         }
-       
+    ],
+    "webinars": [
+        {
+            "title": "Beat Making 101",
+            "description": "Join us for a deep dive into the world of beat making, covering everything from drum programming to melody composition.",
+            "link": "https://example.com/beat-making-101"
+        },
+        {
+            "title": "Mixing and Mastering Masterclass",
+            "description": "Learn the secrets of professional mixing and mastering techniques from industry experts in this comprehensive masterclass.",
+            "link": "https://example.com/mixing-mastering-masterclass"
+        },
+        {
+            "title": "Music Production Workflow Efficiency",
+            "description": "Discover tips and tricks to streamline your music production workflow and maximize your creative output.",
+            "link": "https://example.com/music-production-workflow"
+        },
+        {
+            "title": "Music Theory Fundamentals",
+            "description": "Unlock the mysteries of music theory and gain a deeper understanding of harmony, melody, and rhythm.",
+            "link": "https://example.com/music-theory-fundamentals"
+        },
+        {
+            "title": "Live Performance Techniques",
+            "description": "Explore innovative approaches to live performance, including stage presence, improvisation, and audience engagement.",
+            "link": "https://example.com/live-performance-techniques"
+        },
+        {
+            "title": "Building Your Brand as an Independent Artist",
+            "description": "Learn how to build a strong brand identity and effectively market yourself as an independent musician in today's digital landscape.",
+            "link": "https://example.com/building-your-brand"
+        }
     ]
 }

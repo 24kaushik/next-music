@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import courseData from '@/data/music_courses.json'
+import courseData from '@/data/data.json'
 import Link from 'next/link'
 import CourseCard from './CourseCard'
 export interface Course {
